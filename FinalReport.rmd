@@ -1,5 +1,5 @@
 ---
-title: "Aides Drug"
+title: "Aids Drug"
 author: "Th3b0yn3xtd00r"
 date: "Summer 2023"
 output: html_document
@@ -26,7 +26,7 @@ Data for this study came from a clinical trial for the drug triUmpsal.
 
 <!--Decide on your methods:  use "variable analysis" or other appropriate descriptors.  Make sure to choose at least one graphical method and at least one numerical method. Discuss what data manipulations may be needed for example subsetting or other binning procedures and what sort of graphical displays and inferential tools will be used!-->
 
-Because the question is about drug users, we have to subset the data to include only druggies.  
+Because the question is about drug users, we have to subset the data to include only druggies. The response variable for the drug triUmpsal is categorical; The input variable is Categorical. We have a CAT~CAT.
 
 Graphical display: bar chart, numerical display is some kind of wonky table, and I forgot the inferential way.
 
