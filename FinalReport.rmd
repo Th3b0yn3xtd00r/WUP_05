@@ -28,7 +28,7 @@ Data for this study came from a clinical trial for the drug triUmpsal.
 
 Because the question is about drug users, we have to subset the data to include only druggies. The response variable for the drug triUmpsal is categorical; The input variable is Categorical. We have a CAT~CAT.
 
-Graphical display: bar chart, numerical display is some kind of wonky table, and I forgot the inferential way.
+Graphical display: bar chart, numerical display is detail version of the graphical using specific numbers while the Inferential way is finding the ratio or difference between the different methods we used, so in this case it is the TriUmpsal drug users and non-TriUmpsal drug users effects of contracting AIDS. 
 
 # Results
 
